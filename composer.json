@@ -1,0 +1,12 @@
+{
+    "name": "siscrad/bmi",
+    "description": "BMI",
+    "type": "library",
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "BMI\\": "src/"
+        }
+    },
+    "require": {}
+}
